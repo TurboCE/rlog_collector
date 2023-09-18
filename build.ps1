@@ -1,0 +1,1 @@
+ps2exe .\rlog_copy_from_device_then_zip1.ps1
